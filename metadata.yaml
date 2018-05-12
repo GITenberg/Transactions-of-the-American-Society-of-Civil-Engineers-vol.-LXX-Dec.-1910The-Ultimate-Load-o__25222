@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31157'
     url: http://www.gutenberg.org/2009/agents/31157
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25222#Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXX-Dec.-1910The-Ultimate-Load-o_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-04-28'
 gutenberg_type: Text
