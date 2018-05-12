@@ -1,0 +1,30 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXX-Dec.-1910The-Ultimate-Load-o__25222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffith, John Howell
+    birthdate: 1868
+    gutenberg_agent_id: '31157'
+    url: http://www.gutenberg.org/2009/agents/31157
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Foundations'
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcsh 'Piling (Civil engineering)'
+title: 'Transactions of the American Society of Civil Engineers, vol. LXX, Dec. 1910
+
+  The Ultimate Load on Pile Foundations'
+url: http://www.gutenberg.org/ebooks/25222
